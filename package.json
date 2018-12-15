@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Shubhashish Verma",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -26,7 +26,7 @@
     "moment": "2.19.3",
     "node-sass": "^4.10.0",
     "normalize.css": "7.0.0",
-    "raf": "3.3.2",
+    "numeral": "2.0.6",
     "react": "16.0.0",
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "12.3.0",
