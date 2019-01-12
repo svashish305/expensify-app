@@ -1,11 +1,12 @@
 # Git commands
-
+```
 git init - Create a new git repo
 git status - View the changes to your project code
 git add - Add files to staging area
 git commit - Creates a new commit with files from staging area
 git log - View recent commits
+```
 
+# access the app
 
-#access the app
-https://sv-expensify-app.herokuapp.com/
+[Link to Expensify](https://sv-expensify-app.herokuapp.com)
